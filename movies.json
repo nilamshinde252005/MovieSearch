@@ -1,0 +1,33 @@
+[
+    {
+        "title":"Housemaid",
+        "rating":"8/10",
+        "poster":"assets/housemaid.jpg"
+    },
+    {
+        "title":"Hush",
+        "rating":"6/10",
+        "poster":"assets/hush.jpg"
+    },
+    {
+        "title":"Spiderman-1",
+        "rating":"8/10",
+        "poster":"assets/spiderman1.jpg"
+    },
+    {
+        "title":"Spiderman-2",
+        "rating":"8/10",
+        "poster":"assets/spiderman2.jpg"
+    },
+    {
+        "title":"Spiderman-3",
+        "rating":"8/10",
+        "poster":"assets/spiderman3.jpg"
+    },
+    {
+        "title":"Talash",
+        "rating":"8/10",
+        "poster":"assets/talash.jpg"
+    }
+
+]
